@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/ch2.dir/selectsort.cpp.o  -o ch2 

@@ -1,3 +1,0 @@
-/home/robin/code/algs/ch2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/robin/code/algs/ch2/cmake-build-debug/CMakeFiles/ch2.dir
-/home/robin/code/algs/ch2/cmake-build-debug/CMakeFiles/edit_cache.dir
