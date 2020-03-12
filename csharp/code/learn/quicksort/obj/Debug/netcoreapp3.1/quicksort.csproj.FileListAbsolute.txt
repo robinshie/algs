@@ -1,0 +1,11 @@
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.exe
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.deps.json
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.runtimeconfig.json
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.runtimeconfig.dev.json
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.dll
+C:\Users\Robin\Documents\code\learn\quicksort\bin\Debug\netcoreapp3.1\quicksort.pdb
+C:\Users\Robin\Documents\code\learn\quicksort\obj\Debug\netcoreapp3.1\quicksort.csprojAssemblyReference.cache
+C:\Users\Robin\Documents\code\learn\quicksort\obj\Debug\netcoreapp3.1\quicksort.AssemblyInfoInputs.cache
+C:\Users\Robin\Documents\code\learn\quicksort\obj\Debug\netcoreapp3.1\quicksort.AssemblyInfo.cs
+C:\Users\Robin\Documents\code\learn\quicksort\obj\Debug\netcoreapp3.1\quicksort.dll
+C:\Users\Robin\Documents\code\learn\quicksort\obj\Debug\netcoreapp3.1\quicksort.pdb
