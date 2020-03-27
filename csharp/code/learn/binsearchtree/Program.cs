@@ -14,6 +14,7 @@ namespace binsearchtree
         public bool isbinstree;
         public int maxvalue;
         public int minvalue;
+    
     }
     public class Tree
     {
@@ -28,11 +29,10 @@ namespace binsearchtree
         {
             Tree root = new Tree()
             {
-                Value = 1,
+                Value = 2,
                 LeftTree = new Tree()
                 {
-                    Value = 2
-                },
+                    Value = 1              },
                 RightTree = new Tree()
                 {
                     Value = 3
@@ -43,15 +43,16 @@ namespace binsearchtree
         }
         static bool isBinSearchTree(Tree root)
         {
-            bool result = false;
-            result = Cal(root).isbinstree;
-            return result;
+           // bool result = false;
+            var result = Cal(root);
+            System.Console.WriteLine(result.minvalue+","+result.maxvalue);
+            return result.isbinstree;
         }
         private static ResultType Cal(Tree root)
         {
             if(root==null)
             {
-                return new ResultType(true,-9999,9999);
+                return new ResultType(true,int.MinValue+1,int.MaxValue-1);
             }
             if(root.LeftTree==null && root.RightTree==null)
             {
