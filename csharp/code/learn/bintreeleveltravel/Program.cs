@@ -9,7 +9,6 @@ namespace bintreeleveltravel
         public Node leftTree;
         public Node rightTree;
     }
-    
     class Program
     {
         static void Main(string[] args)
